@@ -10,11 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "curl": "^0.1.4",
     "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
     "helmet": "^3.16.0",
+    "jwks-rsa": "^1.4.0",
     "morgan": "^1.9.1"
   }
 }
